@@ -39,8 +39,8 @@ src/
 ├── App.jsx
 └── main.jsx
 public/
-└── Como_hablarle_a_la_IA_Junior_v16.pdf
-```
+└── Como hablarle a la IA Junior.pdf
+
 
 ---
 
