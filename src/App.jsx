@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import './App.css'
-import Nav from './components/nav'
+import Nav from './components/Nav'
 import Hero from './components/Hero'
 import Problems from './components/Problems'
 import Download from './components/Download'
@@ -24,7 +24,7 @@ useEffect (() => {
 },[])
   return (
     <>
-    <Nav />
+    <Nav/>
     <Hero/>
     <Problems/>
     <Download/>
