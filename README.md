@@ -1,16 +1,51 @@
-# React + Vite
+# Cómo hablarle a la IA — Guía para juniors
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing page de la guía práctica para developers juniors que quieren usar la IA para aprender, no solo para resolver.
 
-Currently, two official plugins are available:
+🔗 **[Ver la guía online](https://guia-ia-junior-ehbbkea4w-fdemannas-projects.vercel.app/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Sobre la guía
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+Esta guía no enseña a programar ni a "usar la IA" en general. Enseña una sola cosa: a no perder el tiempo con ella.
 
-## Expanding the ESLint configuration
+12 capítulos. Cada uno para una situación concreta del día a día. Prompts listos para copiar y adaptar. Compatible con ChatGPT, Claude y Gemini.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Gratis. Sin registro. Sin email.**
+
+---
+
+## Sobre este proyecto
+
+Landing page construida como proyecto de aprendizaje y documentacion de informacion recopilada en mi aprendizaje.
+
+- **Framework:** React + Vite
+- **Estilos:** CSS propio
+- **Deploy:** Vercel
+
+---
+
+## Estructura
+
+```
+src/
+├── components/
+│   ├── Nav.jsx
+│   ├── Hero.jsx
+│   ├── Problems.jsx
+│   ├── Download.jsx
+│   └── Footer.jsx
+├── App.jsx
+└── main.jsx
+public/
+└── Como_hablarle_a_la_IA_Junior_v16.pdf
+```
+
+---
+
+## Autor
+
+**Francisco De Manna** — Developer junior en crecimiento.
+
+[LinkedIn](https://www.linkedin.com/in/francisco-de-manna)
