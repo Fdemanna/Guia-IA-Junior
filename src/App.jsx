@@ -1,10 +1,10 @@
 import { useState, useEffect } from 'react'
 import './App.css'
-import Nav from './componets/nav'
-import Hero from './componets/Hero'
-import Problems from './componets/Problems'
-import Download from './componets/Download'
-import Footer from './componets/Footer'
+import Nav from './components/nav'
+import Hero from './components/Hero'
+import Problems from './components/Problems'
+import Download from './components/Download'
+import Footer from './components/Footer'
 
 function App() {
   const [count, setCount] = useState(0)
