@@ -2,7 +2,7 @@
 
 Landing page de la guía práctica para developers juniors que quieren usar la IA para aprender, no solo para resolver.
 
-🔗 **[Ver la guía online](https://guia-ia-junior-ehbbkea4w-fdemannas-projects.vercel.app/)**
+🔗 **[Ver la guía online](https://guia-ia-junior.vercel.app/)**
 
 ---
 
